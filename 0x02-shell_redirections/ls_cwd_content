@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 usamaamoody usamaamoody 4096 Apr  4 23:05 .
+drwxr-xr-x 6 usamaamoody usamaamoody 4096 Apr  4 22:23 ..
+-rwxr--r-- 1 usamaamoody usamaamoody   32 Apr  4 22:31 0-hello_world
+-rwxr--r-- 1 usamaamoody usamaamoody   31 Apr  4 22:44 1-confused_smiley
+-rwxr--r-- 1 usamaamoody usamaamoody   28 Apr  4 22:42 2-hellofile
+-rwxr--r-- 1 usamaamoody usamaamoody   39 Apr  4 22:46 3-twofiles
+-rwxr--r-- 1 usamaamoody usamaamoody   35 Apr  4 22:47 4-lastlines
+-rwxr--r-- 1 usamaamoody usamaamoody   36 Apr  4 22:49 5-firstlines
+-rwxr--r-- 1 usamaamoody usamaamoody   52 Apr  4 22:51 6-third_line
+-rwxr--r-- 1 usamaamoody usamaamoody   72 Apr  4 23:04 7-file
+-rwxr--r-- 1 usamaamoody usamaamoody   36 Apr  4 23:05 8-cwd_state
+-rw-r--r-- 1 usamaamoody usamaamoody   42 Apr  4 22:57 Best
+-rw-r--r-- 1 usamaamoody usamaamoody    8 Apr  4 22:26 README.md
+-rw-r--r-- 1 usamaamoody usamaamoody   38 Apr  4 23:00 \*\'Best
+-rw-r--r-- 1 usamaamoody usamaamoody  801 Apr  4 22:53 iacta
+-rw-r--r-- 1 usamaamoody usamaamoody    0 Apr  4 23:05 ls_cwd_content
